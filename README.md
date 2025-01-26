@@ -10,7 +10,7 @@
 Transform medical diagnosis with our cutting-edge ML solution that achieves near-perfect accuracy in CKD prediction. By combining the power of 12 advanced algorithms, we're pushing the boundaries of early disease detection.
 
 ## 🚀 Key Features
-- 🎯 **99.9% Accuracy** with our top performer CatBoost
+- 🎯 **98.75% Accuracy** with our top performer Random Forest
 - 🧬 **Smart Data Processing** with advanced feature engineering
 - 📊 **Multi-Model Analysis** comparing 12 state-of-the-art algorithms
 - 🔍 **Deep Insights** through comprehensive performance metrics
@@ -23,13 +23,13 @@ Transform medical diagnosis with our cutting-edge ML solution that achieves near
 🔢 NumPy       | 🐼 Pandas
 📉 Matplotlib  | 🌊 Seaborn
 ```
+## 📈 Top Performance Models
 
-## 📈 Performance Champions
-1. 🥇 **CatBoost**: 100% accuracy
-2. 🥈 **XGBoost**: 99.8% accuracy
-3. 🥉 **Random Forest**: 99.5% accuracy
-4. 🎖️ **Gradient Boosting**: 99.2% accuracy
-5. 🎖️ **Extra Trees**: 98.9% accuracy
+- 🥇 Random Forest: 98.75% accuracy
+- 🥈 Gradient Boosting: 97.5% accuracy
+- 🥈 CatBoost: 97.5% accuracy
+- 🥈 Extra Trees: 97.5% accuracy
+- 🥉 XGBoost: 95% accuracy
 
 ## 🔮 Future Vision
 - 📱 Smart health app integration
